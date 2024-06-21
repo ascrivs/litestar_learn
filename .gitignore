@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+
+
+# Sqlite3
+
+*.sqlite3
+
+# venv
+.venv
+.vent/*
+
+
 # Distribution / packaging
 .Python
 build/
